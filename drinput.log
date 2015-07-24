@@ -1,0 +1,2446 @@
+ERROR (com.px.news.doorrecord.DoorMain:15)- 读取初始化时间戳错误！
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:600000 单次同步时间区间(毫秒):600000
+INFO (com.px.news.doorrecord.DoorMain:49)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:55)- 读取记录的开始时间戳:2015-07-24 16:51:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:600000 单次同步时间区间(毫秒):60000
+INFO (com.px.news.doorrecord.DoorMain:49)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:55)- 读取记录的开始时间戳:2015-07-24 16:51:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:81)- 数据提交服务器失败。重试本次时间戳任务
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:600000 单次同步时间区间(毫秒):60000
+INFO (com.px.news.doorrecord.DoorMain:49)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:51:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:53:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:53:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:54:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:54:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:55:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:55:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:56:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:56:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:57:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:57:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:58:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:58:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 16:59:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 16:59:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:00:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:00:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:01:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:02:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:02:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:03:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:03:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:04:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:04:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:05:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:05:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:06:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:06:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:07:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:07:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:08:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+ERROR (com.px.news.doorrecord.DoorMain:90)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:07:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:08:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+ERROR (com.px.news.doorrecord.DoorMain:90)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:07:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:08:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+ERROR (com.px.news.doorrecord.DoorMain:90)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:07:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:08:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+ERROR (com.px.news.doorrecord.DoorMain:90)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:07:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:08:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+ERROR (com.px.news.doorrecord.DoorMain:90)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:07:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:08:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:600000 单次同步时间区间(毫秒):60000
+INFO (com.px.news.doorrecord.DoorMain:49)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:42:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:42:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:43:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:7
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:43:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:44:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:44:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:45:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:3
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:45:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:46:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:7
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:46:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:47:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:47:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:48:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:48:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:49:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:49:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:50:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:50:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:51:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:51:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-16 11:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-16 11:53:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:600000 单次同步时间区间(毫秒):60000
+INFO (com.px.news.doorrecord.DoorMain:49)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:38:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:39:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:63)- 读取记录的开始时间戳:2015-07-24 17:39:42.0
+INFO (com.px.news.doorrecord.DoorMain:66)- 读取记录的结束时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:71)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:77)- 成功提交数据到服务器
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:600000 单次同步时间区间(毫秒):60000
+INFO (com.px.news.doorrecord.DoorMain:39)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:53)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:56)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:61)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:75)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:56)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:61)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:75)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:56)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:61)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:75)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:56)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:61)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:75)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:56)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:61)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:75)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:56)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:61)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:75)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:56)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:61)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:75)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:600000 单次同步时间区间(毫秒):60000
+INFO (com.px.news.doorrecord.DoorMain:39)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:40:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:41:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:42:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:42:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:43:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:43:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:44:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:44:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:45:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:45:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:46:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:46:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:47:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:47:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:48:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:48:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:49:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+ERROR (com.px.news.doorrecord.DoorMain:92)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:22)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:24)- 1秒后开始执行定时任务
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:25)- 任务参数 执行频率（毫秒）:60000 单次同步时间区间(毫秒):60000
+INFO (com.px.news.doorrecord.DoorMain:39)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:49:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:50:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:50:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:51:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+ERROR (com.px.news.doorrecord.DoorMain:92)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:39)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:92)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:39)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:51:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+INFO (com.px.news.doorrecord.DoorMain:53)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:54)- 读取记录的开始时间戳:2015-07-24 17:52:42.0
+INFO (com.px.news.doorrecord.DoorMain:57)- 读取记录的结束时间戳:2015-07-24 17:53:42.0
+INFO (com.px.news.doorrecord.DoorMain:62)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:76)- 未查询到记录，不需要同步
+ERROR (com.px.news.doorrecord.DoorMain:92)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:39)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:92)- 本次任务结束
