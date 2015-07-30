@@ -11,6 +11,7 @@ import java.util.List;
 
 import com.company.news.ProjectProperties;
 import com.company.news.entity.DoorRecord;
+import com.company.news.jsonform.DoorUserJsonform;
 import com.microsoft.sqlserver.jdbc.SQLServerDataSource;
 
 /**
@@ -56,6 +57,47 @@ public class DataRead {
 		}
 		
 		return list;
+	}
+	
+	
+	/**
+	 * 根据卡ID获取卡用户信息
+	 * @param cardid
+	 * @return
+	 * @throws Exception
+	 */
+	public static DoorUserJsonform getCard(String cardid) throws Exception {
+		
+		SQLServerDataSource ds = new SQLServerDataSource();
+		ds.setUser(ProjectProperties.getProperty("user", ""));
+		ds.setPassword(ProjectProperties.getProperty("password", ""));
+		ds.setServerName(ProjectProperties.getProperty("serverName", ""));
+		ds.setPortNumber(ProjectProperties.getPropertyAsInt("portNumber", 1433)); 
+		ds.setDatabaseName(ProjectProperties.getProperty("databaseName", ""));
+		Connection con = ds.getConnection();
+
+		DoorUserJsonform user=null;
+		
+		try {
+			String SQL = "SELECT UserName,IdNo FROM CardUser where CardID=?";
+		      PreparedStatement pstmt = con.prepareStatement(SQL);
+		      pstmt.setString(1,cardid);
+
+		      ResultSet rs = pstmt.executeQuery();
+
+			while (rs.next()) {
+				user=new DoorUserJsonform();
+				user.setIdNo(rs.getString(2));
+				user.setUserName(rs.getString(1));
+				user.setCardid(cardid);
+			}
+			rs.close();
+			pstmt.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return user;
 	}
 
 }

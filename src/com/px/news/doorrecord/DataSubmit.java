@@ -3,11 +3,15 @@ package com.px.news.doorrecord;
 import java.io.ByteArrayInputStream;
 import java.util.List;
 
+import org.apache.log4j.Logger;
+
 import com.company.common.SerializableUtil;
+import com.company.common.StringUtils;
 import com.company.news.ProjectProperties;
 import com.company.news.SystemConstants;
 import com.company.news.entity.DoorRecord;
 import com.company.news.jsonform.DoorRecordJsonform;
+import com.company.news.jsonform.DoorUserJsonform;
 import com.meterware.httpunit.PostMethodWebRequest;
 import com.meterware.httpunit.WebConversation;
 import com.meterware.httpunit.WebResponse;
@@ -21,7 +25,7 @@ import com.px.news.doorrecord.utils.JSONUtils;
  *
  */
 public class DataSubmit extends AbstractHttpTest {
-	
+	private static final Logger log = Logger.getLogger(DataSubmit.class);
 	/**
 	 * 将获取的LIST提交到服务器，并返回是否成功
 	 * @param list
@@ -45,6 +49,52 @@ public class DataSubmit extends AbstractHttpTest {
 				json.getBytes(SystemConstants.Charset));
 		PostMethodWebRequest request = new PostMethodWebRequest(
 				ProjectProperties.getProperty("px_host", "localhost") + "rest/doorrecord/insert.json", input,
+				Constants.contentType);
+
+		WebResponse response = tryGetResponse(conversation, request);
+
+		HttpUtils.println(conversation, request, response);
+		if(response.getText().indexOf("success") != -1)
+			return true;
+		else
+			return false;
+	}
+	
+	/**
+	 * 将获取的LIST提交到服务器，并返回是否成功
+	 * @param list
+	 * @return
+	 * @throws Exception 
+	 */
+	public boolean autobind(DoorUserJsonform user) throws Exception{
+		if(StringUtils.isNullOrEmpty(user.getUserName()))
+		{
+			user.setUserName("未知");
+			
+		}
+		
+		if(StringUtils.isNullOrEmpty(user.getIdNo()))
+		{
+			log.info("身份证IdNo isnull,不需要同步");
+			return true;			
+		}
+		
+		WebConversation conversation = new WebConversation();
+		
+		DoorUserJsonform form = new DoorUserJsonform();
+		form.setGroupuuid(ProjectProperties.getProperty("groupuuid", ""));
+		form.setPrivate_key(ProjectProperties.getProperty("private_key", ""));
+		form.setCardid(user.getCardid());
+		form.setUserName(user.getUserName());
+		form.setIdNo(user.getIdNo());
+				
+		
+		String json = JSONUtils.getJsonString(form);
+		HttpUtils.printjson(json);
+		ByteArrayInputStream input = new ByteArrayInputStream(
+				json.getBytes(SystemConstants.Charset));
+		PostMethodWebRequest request = new PostMethodWebRequest(
+				ProjectProperties.getProperty("px_host", "localhost") + "rest/doorrecord/autobind.json", input,
 				Constants.contentType);
 
 		WebResponse response = tryGetResponse(conversation, request);

@@ -10,13 +10,13 @@ import com.company.news.rest.util.TimeUtils;
 
 public class ReadWriteUtil {
 	private final static String filename = "timestamp";
-
+	private final static String filename_cardstr = "cardFilter";
 	/**
 	 * 
 	 * @param date
 	 * @throws IOException
 	 */
-	public static void write(Date date) throws IOException {
+	public static void writeTimestamp(Date date) throws IOException {
 		// 输出流
 		FileWriter fw = new FileWriter(filename);
 
@@ -32,7 +32,7 @@ public class ReadWriteUtil {
 	 * @return
 	 * @throws IOException
 	 */
-	public static Date read() throws IOException {
+	public static Date readTimestamp() throws IOException {
 		// 输出流
 		FileReader fr = new FileReader(filename);
 
@@ -46,6 +46,41 @@ public class ReadWriteUtil {
 
 		fr.close();
 		return time;
+
+	}
+	
+	/**
+	 * 
+	 * @param date
+	 * @throws IOException
+	 */
+	public static void writeCardStr(String s) throws IOException {
+		// 输出流
+		FileWriter fw = new FileWriter(filename_cardstr);
+
+		fw.write(s);
+
+		fw.close();
+
+	}
+
+	/**
+	 * 
+	 * @return
+	 * @throws IOException
+	 */
+	public static String readCardStr() throws IOException {
+		// 输出流
+		FileReader fr = new FileReader(filename_cardstr);
+
+		int ch = 0;
+		String s = "";
+		while ((ch = fr.read()) != -1) {
+			s += (char)ch;
+		}
+
+		fr.close();
+		return s;
 
 	}
 

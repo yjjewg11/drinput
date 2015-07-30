@@ -10,14 +10,26 @@ import java.util.TimerTask;
 import org.apache.log4j.Logger;
 
 import com.company.news.entity.DoorRecord;
+import com.company.news.jsonform.DoorUserJsonform;
 import com.px.news.doorrecord.utils.ReadWriteUtil;
 
 public class DoorMain {
 	private static final Logger log = Logger.getLogger(DoorMain.class);
 	private static boolean isRunning = false;
+	private static String cardFilter="";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		try {
+			//初始化过滤ID卡号
+			cardFilter=ReadWriteUtil.readCardStr();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			log.error("初始化读取过滤卡号失败");
+		}
+		
 		Timer timer = new Timer();
 		log.info("定时器已启动");
 		// 在1秒后执行此任务,每次间隔2秒,如果传递一个Data参数,就可以在某个固定的时间执行这个任务.
@@ -41,7 +53,7 @@ public class DoorMain {
 
 			Date startTime = null;
 			try {
-				startTime = ReadWriteUtil.read();
+				startTime = ReadWriteUtil.readTimestamp();
 			} catch (IOException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
@@ -66,15 +78,18 @@ public class DoorMain {
 						// 写入成功，更新本地时间戳
 						if (flag) {
 							log.info("成功提交数据到服务器");
-							ReadWriteUtil.write(endTime);
+							ReadWriteUtil.writeTimestamp(endTime);
 							startTime = endTime;
 
+							for(DoorRecord doorRecord:list)
+							//调用自动绑定
+							autobind(doorRecord.getCardid());
 						} else {
 							log.error("数据提交服务器失败。3秒后重试本次时间戳任务");
 						}
 					} else {
 						log.info("不需要同步");
-						ReadWriteUtil.write(endTime);
+						ReadWriteUtil.writeTimestamp(endTime);
 						startTime = endTime;
 					}
 
@@ -92,6 +107,43 @@ public class DoorMain {
 			log.info("本次任务结束");
 			isRunning=false;
 
+		}
+		
+		/**
+		 * 未绑定的卡号提交自动绑定请求给服务器
+		 */
+		private void autobind(String cardid){
+			log.info("autobind,cardid:"+cardid);
+			//进行卡号过滤判断
+			if(cardFilter.indexOf(","+cardid+",")!=-1){
+				//已同步过，直接返回
+				log.info("已同步过，不需要再同步");
+				return ;
+			}
+			
+			try {
+				DoorUserJsonform user=DataRead.getCard(cardid);
+				
+				DataSubmit d = new DataSubmit();
+				boolean flag =d.autobind(user);
+				
+				//同步成功,更新过滤文件
+				if(flag){
+					cardFilter+=(cardid+",");
+					ReadWriteUtil.writeCardStr(cardFilter);
+					
+					log.info("autobind success");
+				}else{
+					log.error("autobind fail");
+				}
+				
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				log.error("门禁卡信息读取失败");
+				e.printStackTrace();
+			}
+			log.info("autobind end");
+			
 		}
 
 	}
