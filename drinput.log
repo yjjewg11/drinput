@@ -5170,3 +5170,885 @@ INFO (com.px.news.doorrecord.DoorMain:65)- -------------begain----------------
 INFO (com.px.news.doorrecord.DoorMain:69)- 读取记录的时间戳:2015-07-16 11:55:42.0~~~~2015-07-16 11:56:42.0
 INFO (com.px.news.doorrecord.DoorMain:74)- 本次读取记录:0
 INFO (com.px.news.doorrecord.DoorMain:91)- 不需要同步
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:10000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+ERROR (com.px.news.doorrecord.DoorMain:77)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:80)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:82)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:83)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:97)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:148)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:111)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:115)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:56)- serverName=127.0.0.1
+ERROR (com.px.news.doorrecord.DoorMain:78)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:81)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:83)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:84)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:98)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:112)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:116)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:56)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:57)- portNumber=1433
+ERROR (com.px.news.doorrecord.DoorMain:79)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:82)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:84)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:85)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:99)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:56)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:57)- portNumber=1433
+ERROR (com.px.news.doorrecord.DoorMain:79)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:82)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:84)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:85)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:99)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:56)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:57)- portNumber=8082
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:56)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:57)- portNumber=1433
+ERROR (com.px.news.doorrecord.DoorMain:79)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:82)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:84)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:85)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:99)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:56)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:57)- portNumber=1433
+ERROR (com.px.news.doorrecord.DoorMain:79)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:82)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:84)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:85)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:99)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:150)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:113)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:117)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+ERROR (com.px.news.doorrecord.DoorMain:44)- autobind fail
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+ERROR (com.px.news.doorrecord.DoorMain:44)- autobind fail
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+ERROR (com.px.news.doorrecord.DoorMain:44)- autobind fail
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+INFO (com.px.news.doorrecord.DoorMain:42)- autobind success
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+INFO (com.px.news.doorrecord.DoorMain:30)- 已同步过，不需要再同步
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+INFO (com.px.news.doorrecord.DoorMain:30)- 已同步过，不需要再同步
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+INFO (com.px.news.doorrecord.DoorMain:30)- 已同步过，不需要再同步
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:1
+INFO (com.px.news.doorrecord.DoorMain:42)- autobind success
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:2
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.px.news.doorrecord.DoorMain:42)- autobind success
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:2
+ERROR (com.px.news.doorrecord.DoorMain:44)- autobind fail
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:2
+INFO (com.px.news.doorrecord.DoorMain:42)- autobind success
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:2
+INFO (com.px.news.doorrecord.DoorMain:42)- autobind success
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:81)- main:CardUser list size=1
+INFO (com.px.news.doorrecord.DoorMain:26)- autobindAll,cardid:2
+ERROR (com.px.news.doorrecord.DoorMain:44)- autobind fail
+INFO (com.px.news.doorrecord.DoorMain:52)- autobind end
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:57)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:58)- portNumber=1433
+ERROR (com.px.news.doorrecord.DoorMain:88)- 上传用户与卡绑定关系数据
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:94)- 任务参数 执行频率（毫秒）:100000 单次同步时间区间(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:108)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
