@@ -22,6 +22,9 @@ import com.microsoft.sqlserver.jdbc.SQLServerDataSource;
  */
 public class DataRead {
 	private static Date lastUserModifyDate=null;
+	public static Date lastDoor_record_date=null;
+	static public Long lastDoor_record_id=Long.valueOf(0);
+	static public Integer pagesize=ProjectProperties.getPropertyAsInt("pagesize", 30);
 	
 	/**
 	 * 读取所有用户
@@ -45,13 +48,13 @@ public static List<DoorUserJsonform> readCardUserListByLastEditRq() throws Excep
 		try {
 			ResultSet rs=null;
 			PreparedStatement pstmt =null;
-			if(lastUserModifyDate==null){
+			if(lastUserModifyDate!=null){
 				String SQL = "SELECT CardID,UserID,UserName,IdNo,LastEditRq FROM CardUser where LastEditRq>? order by LastEditRq";
 				 pstmt = con.prepareStatement(SQL);
 				pstmt.setTimestamp(1, new Timestamp(lastUserModifyDate.getTime()));
 				 rs = pstmt.executeQuery();
 			}else{
-				String SQL = "SELECT CardID,UserID,UserName,IdNo FROM CardUser order by LastEditRq";
+				String SQL = "SELECT CardID,UserID,UserName,IdNo,LastEditRq FROM CardUser order by LastEditRq";
 			       pstmt = con.prepareStatement(SQL);
 			       rs = pstmt.executeQuery();
 
@@ -65,7 +68,7 @@ public static List<DoorUserJsonform> readCardUserListByLastEditRq() throws Excep
 				list.add(user);
 				
 				
-				lastUserModifyDate=rs.getDate(5);
+				lastUserModifyDate=rs.getTimestamp(5);
 			}
 			if(rs!=null)rs.close();
 			if(rs!=null)pstmt.close();
@@ -130,10 +133,13 @@ public static List<DoorUserJsonform> readCardUserListByLastEditRq() throws Excep
 		List<DoorRecord> list=new ArrayList<DoorRecord>();
 		
 		try {
-			String SQL = "SELECT id,cardid,dt,EquNo,DoorID,ErrCode,OperDt,OperName FROM door_record where dt>? and dt<=? ORDER BY dt";
-		      PreparedStatement pstmt = con.prepareStatement(SQL);
+			//String SQL = "SELECT id,cardid,dt,EquNo,DoorID,ErrCode,OperDt,OperName FROM door_record where dt>? and dt<=? ORDER BY dt";
+			String SQL = "SELECT top "+pagesize+" id,cardid,dt,EquNo,DoorID,ErrCode,OperDt,OperName FROM door_record where dt>=? and id>?  ORDER BY dt";
+			     PreparedStatement pstmt = con.prepareStatement(SQL);
 		      pstmt.setTimestamp(1, new Timestamp(startDate.getTime()));
-		      pstmt.setTimestamp(2, new Timestamp(endDate.getTime()));
+		      //防止重复数据提交
+		      pstmt.setLong(2, lastDoor_record_id);
+		     // pstmt.setTimestamp(2, new Timestamp(endDate.getTime()));
 		      ResultSet rs = pstmt.executeQuery();
 
 			while (rs.next()) {
@@ -144,10 +150,13 @@ public static List<DoorUserJsonform> readCardUserListByLastEditRq() throws Excep
 				String rs5=rs.getString(5);
 				d.setEquno(rs4);
 				String showkey="door_show_"+rs4+"_"+rs5;
-				System.out.print(showkey);
+				//System.out.print(showkey);
 				d.setDoorid(ProjectProperties.getProperty(showkey,rs5));
 				//d.setDoorid(rs.getString(5));
 				d.setErrcode(rs.getString(6));
+				//记录最后
+				lastDoor_record_date=d.getDt();
+				lastDoor_record_id=rs.getLong(1);
 				list.add(d);
 			}
 			rs.close();

@@ -43,7 +43,12 @@ public class ReadWriteUtil {
 		}
 
 		Date time = TimeUtils.string2Timestamp(TimeUtils.DEFAULTFORMAT, s);
-
+		if(time==null){
+			System.out.println("读取格式联正确=" +s);
+			s="2000-01-01 00:00:00";
+			System.out.println("设置为=" +s);
+			time= TimeUtils.string2Timestamp(TimeUtils.DEFAULTFORMAT,s );
+		}
 		fr.close();
 		return time;
 

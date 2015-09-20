@@ -68,6 +68,9 @@ public class DataSubmit extends AbstractHttpTest {
 	 * @throws Exception 
 	 */
 	public boolean autobind(DoorUserJsonform user) throws Exception{
+		if(user==null){
+			return false;
+		}
 		if(PxStringUtils.isNullOrEmpty(user.getUserName()))
 		{
 			user.setUserName("未知");

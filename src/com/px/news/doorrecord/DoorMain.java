@@ -24,7 +24,6 @@ public class DoorMain {
 	 * 未绑定的卡号提交自动绑定请求给服务器
 	 */
 	private static void autobindcarduser(DoorUserJsonform user){
-		log.info("autobindAll,cardid:"+user.getCardid());
 		//进行卡号过滤判断
 //		if(cardFilter.indexOf(","+user.getCardid()+",")!=-1){
 //			//已同步过，直接返回
@@ -74,26 +73,26 @@ public class DoorMain {
 			e.printStackTrace();
 			log.error("初始化读取过滤卡号失败");
 		}
-		
-		try {
-			List<DoorUserJsonform> list = DataRead.readCardUserListByLastEditRq();
-			log.info("main:CardUser list size="+list.size());
-			for(DoorUserJsonform o:list){
-				autobindcarduser(o);
-			}
-			log.error("上传用户与卡绑定关系数据,成功!共:"+list.size());
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			log.error(e);
-			
-		}
+//		
+//		try {
+//			List<DoorUserJsonform> list = DataRead.readCardUserListByLastEditRq();
+//			log.info("main:CardUser list size="+list.size());
+//			for(DoorUserJsonform o:list){
+//				autobindcarduser(o);
+//			}
+//			//log.info("上传用户与卡绑定关系数据,成功!共:"+list.size());
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//			log.error(e);
+//			
+//		}
 		Timer timer = new Timer();
 		log.info("定时器已启动");
 		// 在1秒后执行此任务,每次间隔2秒,如果传递一个Data参数,就可以在某个固定的时间执行这个任务.
 		log.info("1秒后开始执行定时任务");
-		log.info("任务参数 执行频率（毫秒）:" + Constants.frequency + " 单次同步时间区间(毫秒):"
-				+ Constants.time_interval);
+//		log.info("任务参数 执行频率（毫秒）:" + Constants.frequency + " 单次同步时间区间(毫秒):"
+//				+ Constants.time_interval);
 		timer.schedule(new submitTask(), 1000, Constants.frequency);
 
 	}
@@ -104,13 +103,18 @@ public class DoorMain {
 		public void run() {
 			// TODO Auto-generated method stub
 			// 为防止上次任务还未执行完（当然，一般任务是没有这么长的），避免第二次又被调度以引起执行冲突，设置了当前是否正在执行的状态标志isRunning
+			
 			if (!isRunning) {
 				isRunning = true;
 				log.info("开始执行指定任务");
+			}else{
+				log.info("isRunning="+ isRunning);
 			}
 
 			Date startTime = null;
 			DataSubmit d1 = new DataSubmit();
+			
+			//心跳
 			boolean heartbeatflag=false;
 			try {
 				heartbeatflag=d1.heartbeat("o");
@@ -126,17 +130,14 @@ public class DoorMain {
 				return ;
 			}
 			
-			
-			
-			
-			
+			//用户同步
 			try {
 				List<DoorUserJsonform> list = DataRead.readCardUserListByLastEditRq();
 				log.info("main:readCardUserListByLastEditRq list size="+list.size());
 				for(DoorUserJsonform o:list){
 					autobindcarduser(o);
 				}
-				log.error("上传用户与卡绑定关系数据,成功!共:"+list.size());
+				//log.error("上传用户与卡绑定关系数据,成功!共:"+list.size());
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -150,55 +151,73 @@ public class DoorMain {
 				e1.printStackTrace();
 				log.error("读取初始化时间戳错误！");
 			}
-
+			
+			Integer pagesize=DataRead.pagesize;
 			// 当前时间减去时间戳大于时间间隔时，继续执行
-			while ((new Date().getTime() - startTime.getTime()) > Constants.time_interval) {
+			boolean isNeedRead=true;
+//			while ((new Date().getTime() - startTime.getTime()) > Constants.time_interval) {
+				while (isNeedRead) {
 				log.info("-------------begain----------------");
 				
-				Date endTime = new Timestamp(startTime.getTime()
-						+ Constants.time_interval);
-				log.info("读取记录的时间戳:" + startTime+"~~~~"+ endTime);
-
+//				Date endTime = new Timestamp(startTime.getTime()
+//						+ Constants.time_interval);
+//				//log.info("读取记录的时间戳:" + startTime+"~~~~"+ endTime);
+				Date endTime=null;
 				try {
 					List<DoorRecord> list = DataRead.readList(startTime,
 							endTime);
 					log.info("本次读取记录:" + list.size());
+					if(DataRead.pagesize.equals(list.size())){//判断是否读取完毕
+						isNeedRead=true;
+					}else{
+						isNeedRead=false;
+					}
 					if (list.size() > 0) {
 						DataSubmit d = new DataSubmit();
 						boolean flag = d.submitList(list);
 						// 写入成功，更新本地时间戳
 						if (flag) {
 							log.info("成功提交数据到服务器");
-							ReadWriteUtil.writeTimestamp(endTime);
-							startTime = endTime;
+							
+							if(DataRead.lastDoor_record_date!=null){
+								startTime = DataRead.lastDoor_record_date;
+								ReadWriteUtil.writeTimestamp(startTime);
+							}
 
-							for(DoorRecord doorRecord:list)
-							//调用自动绑定
-							autobind(doorRecord.getCardid());
+//							for(DoorRecord doorRecord:list)
+//							//调用自动绑定
+//							autobind(doorRecord.getCardid());
 						} else {
+							
 							log.error("数据提交服务器失败。3秒后重试本次时间戳任务");
+							try {
+								Thread.sleep(3000);
+							} catch (InterruptedException e1) {
+								// TODO Auto-generated catch block
+								e1.printStackTrace();
+							}
 						}
-					} else {
-						log.info("不需要同步");
-						ReadWriteUtil.writeTimestamp(endTime);
-						startTime = endTime;
 					}
+//					else {
+//						log.info("不需要同步");
+//						ReadWriteUtil.writeTimestamp(endTime);
+//						startTime = endTime;
+//					}
 
 					
 				} catch (Exception e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 					log.error("数据提交服务器错误！");
+					// 执行完成一次后，等待3秒
+					try {
+						Thread.sleep(3000);
+					} catch (InterruptedException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
 					
 				}
-				// 执行完成一次后，等待3秒
-				try {
-					Thread.sleep(1000);
-				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-
 
 			}
 
