@@ -6052,3 +6052,2055 @@ INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 
 ERROR (com.px.news.doorrecord.DoorMain:159)- 数据提交服务器错误！
 INFO (com.px.news.doorrecord.DoorMain:122)- -------------begain----------------
 INFO (com.px.news.doorrecord.DoorMain:126)- 读取记录的时间戳:2015-07-16 11:56:42.0~~~~2015-07-16 11:56:52.0
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:65)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:66)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:144)- com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 127.0.0.1 的 TCP/IP 连接失败。错误:“Connection refused: connect。请验证连接属性，并检查 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:211)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:160)- -------------begain----------------
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:65)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:66)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:65)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:66)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:65)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:66)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:65)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:66)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:65)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:66)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:91)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:93)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:109)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:124)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:128)- 服务器连接失败！
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:95)- serverName=127.0.0.1
+INFO (com.px.news.doorrecord.DoorMain:96)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:121)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:123)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:139)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:154)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:158)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:139)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:154)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:158)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:139)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:154)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:158)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:139)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:154)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:158)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:139)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:154)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:158)- 服务器连接失败！
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:102)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:103)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:128)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:130)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:182)- com.microsoft.sqlserver.jdbc.SQLServerException: 无法打开登录 'realdoor' 中请求的数据库。登录失败。
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:245)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:245)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:102)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:103)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:128)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:130)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:182)- com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 192.168.0.115 的 TCP/IP 连接失败。错误:“connect timed out。请验证连接属性，并检查 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:245)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:245)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:102)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:103)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:128)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:130)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:102)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:103)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:128)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:130)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:102)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:103)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:128)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:130)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+ERROR (com.px.news.doorrecord.DoorMain:46)- autobindcarduserList:异常
+ERROR (com.px.news.doorrecord.DoorMain:47)- java.util.ConcurrentModificationException
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:102)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:103)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:128)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:130)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:102)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:103)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:128)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:130)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:182)- com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 192.168.0.115 的 TCP/IP 连接失败。错误:“connect timed out。请验证连接属性，并检查 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:245)- 数据提交服务器错误！
+ERROR (com.px.news.doorrecord.DoorMain:182)- com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 192.168.0.115 的 TCP/IP 连接失败。错误:“connect timed out。请验证连接属性，并检查 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:146)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:173)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:198)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:203)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:258)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- null(com.px.news.doorrecord.DataSubmit)
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败！
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔:10000
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔:10000
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔:10000
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔:10000
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔:10000
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔:10000
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+ERROR (com.px.news.doorrecord.DoorMain:47)- autobindcarduserList:异常
+ERROR (com.px.news.doorrecord.DoorMain:48)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+ERROR (com.px.news.doorrecord.DoorMain:47)- autobindcarduserList:异常
+ERROR (com.px.news.doorrecord.DoorMain:48)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+ERROR (com.px.news.doorrecord.DoorMain:47)- autobindcarduserList:异常
+ERROR (com.px.news.doorrecord.DoorMain:48)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+ERROR (com.px.news.doorrecord.DoorMain:47)- autobindcarduserList:异常
+ERROR (com.px.news.doorrecord.DoorMain:48)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:162)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:166)- 服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):10000
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+ERROR (com.px.news.doorrecord.DoorMain:47)- autobindcarduserList:异常
+ERROR (com.px.news.doorrecord.DoorMain:48)- java.net.ConnectException: Connection refused: connect
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=4
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=1
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.company.news.commons.util.ApplicationProperties:172)- Loading properties file from class path resource [conf.properties]
+INFO (com.px.news.doorrecord.DoorMain:103)- serverName=192.168.0.115
+INFO (com.px.news.doorrecord.DoorMain:104)- portNumber=1433
+INFO (com.px.news.doorrecord.DoorMain:129)- 定时器已启动
+INFO (com.px.news.doorrecord.DoorMain:131)- 1秒后开始执行定时任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束

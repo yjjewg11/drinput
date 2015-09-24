@@ -1,0 +1,17 @@
+if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[px_carduser]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)
+drop table [dbo].[px_carduser]
+GO
+
+CREATE TABLE [dbo].[px_carduser] (
+	[CardID] [varchar] (8) COLLATE Chinese_PRC_CI_AS NULL ,
+	[UserID] [varchar] (20) COLLATE Chinese_PRC_CI_AS NULL ,
+	[flag] [text] COLLATE Chinese_PRC_CI_AS NULL ,
+	[createdate] [datetime] NULL 
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+CREATE 
+  INDEX [indx_px_carduser] ON [dbo].[px_carduser] ([CardID], [UserID])
+WITH
+    DROP_EXISTING
+ON [PRIMARY]

@@ -67,6 +67,7 @@ public class DataSubmit extends AbstractHttpTest {
 	 * @return
 	 * @throws Exception 
 	 */
+	@Deprecated
 	public boolean autobind(DoorUserJsonform user) throws Exception{
 		if(user==null){
 			return false;
@@ -103,6 +104,51 @@ public class DataSubmit extends AbstractHttpTest {
 			return true;
 		else
 			return false;
+	}
+	
+
+	/**
+	 * 将获取的LIST提交到服务器，并返回是否成功
+	 * @param list
+	 * @return
+	 * @throws Exception 
+	 */
+	public String autobind1(DoorUserJsonform user) throws Exception{
+		if(user==null){
+			return null;
+		}
+		if(PxStringUtils.isNullOrEmpty(user.getUserName()))
+		{
+			user.setUserName("未知");
+			
+		}
+		
+		if(PxStringUtils.isNullOrEmpty(user.getUserid()))
+		{
+			log.info("Userid() isnull,不需要同步");
+			return null;			
+		}
+		
+		WebConversation conversation = new WebConversation();
+		
+		DoorUserJsonform form =user;
+		form.setGroupuuid(ProjectProperties.getProperty("groupuuid", ""));
+		form.setPrivate_key(ProjectProperties.getProperty("private_key", ""));
+		
+		String json = JSONUtils.getJsonString(form);
+		HttpUtils.printjson(json);
+		ByteArrayInputStream input = new ByteArrayInputStream(
+				json.getBytes(SystemConstants.Charset));
+		PostMethodWebRequest request = new PostMethodWebRequest(
+				ProjectProperties.getProperty("px_host", "localhost") + "rest/doorrecord/autobind.json", input,
+				Constants.contentType);
+		WebResponse response = tryGetResponse(conversation, request);
+
+		HttpUtils.println(conversation, request, response);
+		if(response.getText().indexOf("success") != -1)
+			return null;
+		else
+			return response.getText();
 	}
 	
 	/**

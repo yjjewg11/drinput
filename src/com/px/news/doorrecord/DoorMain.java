@@ -20,9 +20,40 @@ public class DoorMain {
 	private static boolean isRunning = false;
 	private static String cardFilter="";
 
+	
+
 	/**
 	 * 未绑定的卡号提交自动绑定请求给服务器
 	 */
+	private static void autobindcarduserList(List<DoorUserJsonform> list){
+		//进行卡号过滤判断
+//		if(cardFilter.indexOf(","+user.getCardid()+",")!=-1){
+//			//已同步过，直接返回
+//			log.info("已同步过，不需要再同步");
+//			return ;
+//		}
+		if(list==null||list.size()==0)return;
+		List<Object[]> saveList=new ArrayList();
+		try {
+			for(int i=list.size()-1;i>=0;i--){
+				DataSubmit d = new DataSubmit();
+				String flag =d.autobind1(list.get(i));
+				saveList.add(new Object[]{list.get(i),flag});
+			}
+			DataRead.saveCardUserListByChange(saveList);
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			log.error("autobindcarduserList:异常");
+			log.error(e);
+			e.printStackTrace();
+		}
+		
+	}
+	/**
+	 * 未绑定的卡号提交自动绑定请求给服务器
+	 */
+	@Deprecated
 	private static void autobindcarduser(DoorUserJsonform user){
 		//进行卡号过滤判断
 //		if(cardFilter.indexOf(","+user.getCardid()+",")!=-1){
@@ -58,9 +89,16 @@ public class DoorMain {
 		}
 		
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		
-		
+//		//test
+//		DataSubmit tt=new DataSubmit();
+//		DoorUserJsonform user=new DoorUserJsonform();
+//		user.setCardid("1");
+//		user.setUserid("149");
+//		tt.autobind(user);
+//		if(true)return;
+//		//test end
 		// TODO Auto-generated method stub
 		log.info("serverName="+ProjectProperties.getProperty("serverName", ""));
 		log.info("portNumber="+ProjectProperties.getPropertyAsInt("portNumber", 1433));
@@ -121,22 +159,23 @@ public class DoorMain {
 			} catch (Exception e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
-				log.error(d1);
+				log.error(e1);
 			}
 			if(!heartbeatflag){
 
-				log.info("服务器连接失败！");
+				log.info("服务器连接失败,请检查网络！本次任务结束.下次任务间隔(毫秒):"+Constants.frequency);
 				isRunning=false;
 				return ;
 			}
 			
 			//用户同步
 			try {
-				List<DoorUserJsonform> list = DataRead.readCardUserListByLastEditRq();
-				log.info("main:readCardUserListByLastEditRq list size="+list.size());
-				for(DoorUserJsonform o:list){
-					autobindcarduser(o);
-				}
+				List<DoorUserJsonform> list = DataRead.readCardUserListByChange();
+				log.info("readCardUserListByChange list size="+list.size());
+				autobindcarduserList(list);
+//				for(DoorUserJsonform o:list){
+//					autobindcarduser(o);
+//				}
 				//log.error("上传用户与卡绑定关系数据,成功!共:"+list.size());
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
@@ -158,10 +197,6 @@ public class DoorMain {
 //			while ((new Date().getTime() - startTime.getTime()) > Constants.time_interval) {
 				while (isNeedRead) {
 				log.info("-------------begain----------------");
-				
-//				Date endTime = new Timestamp(startTime.getTime()
-//						+ Constants.time_interval);
-//				//log.info("读取记录的时间戳:" + startTime+"~~~~"+ endTime);
 				Date endTime=null;
 				try {
 					List<DoorRecord> list = DataRead.readList(startTime,
@@ -229,6 +264,7 @@ public class DoorMain {
 		/**
 		 * 未绑定的卡号提交自动绑定请求给服务器
 		 */
+		@Deprecated
 		private void autobind(String cardid){
 			log.info("autobind,cardid:"+cardid);
 			//进行卡号过滤判断

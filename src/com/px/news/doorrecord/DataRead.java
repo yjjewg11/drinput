@@ -25,7 +25,92 @@ public class DataRead {
 	public static Date lastDoor_record_date=null;
 	static public Long lastDoor_record_id=Long.valueOf(0);
 	static public Integer pagesize=ProjectProperties.getPropertyAsInt("pagesize", 30);
+	/**
+	 * 读取新变化的用户读取数据.
+	 * @param startDate
+	 * @param endDate
+	 * @return
+	 * @throws Exception
+	 */
+public static List<DoorUserJsonform> readCardUserListByChange() throws Exception {
+		
+		SQLServerDataSource ds = new SQLServerDataSource();
+		ds.setUser(ProjectProperties.getProperty("user", ""));
+		ds.setPassword(ProjectProperties.getProperty("password", ""));
+		ds.setServerName(ProjectProperties.getProperty("serverName", ""));
+		ds.setPortNumber(ProjectProperties.getPropertyAsInt("portNumber", 1433)); 
+		ds.setDatabaseName(ProjectProperties.getProperty("databaseName", ""));
+		Connection con = ds.getConnection();
+
+		List<DoorUserJsonform> list=new ArrayList<DoorUserJsonform>();
+		
+		try {
+			ResultSet rs=null;
+			PreparedStatement pstmt =null;
+			//查询我们的
+			String SQL = "SELECT CardID,UserID,UserName,IdNo,LastEditRq  from carduser where cardid+userid not in(select cardid+userid from px_carduser)";
+		       pstmt = con.prepareStatement(SQL);
+		       rs = pstmt.executeQuery();
+		       
+		  	while (rs.next()) {
+		  		DoorUserJsonform user=new DoorUserJsonform();
+		  		user.setCardid(rs.getString(1));
+		  		user.setUserid(rs.getString(2));
+				user.setUserName(rs.getString(3));
+				user.setIdNo(rs.getString(4));
+				list.add(user);
+			}
+			if(rs!=null)rs.close();
+			if(rs!=null)pstmt.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return list;
+	}
+
+/**
+ * 读取新变化的用户读取数据.
+ * @param startDate
+ * @param endDate
+ * @return
+ * @throws Exception
+ */
+public static void saveCardUserListByChange(List<Object[]> list) throws Exception {
+	if(list==null||list.size()==0)return;
+	SQLServerDataSource ds = new SQLServerDataSource();
+	ds.setUser(ProjectProperties.getProperty("user", ""));
+	ds.setPassword(ProjectProperties.getProperty("password", ""));
+	ds.setServerName(ProjectProperties.getProperty("serverName", ""));
+	ds.setPortNumber(ProjectProperties.getPropertyAsInt("portNumber", 1433)); 
+	ds.setDatabaseName(ProjectProperties.getProperty("databaseName", ""));
+	Connection con = ds.getConnection();
+	con.setAutoCommit(true);
 	
+	try {
+		ResultSet rs=null;
+		PreparedStatement pstmt =null;
+		//查询我们的
+		String SQL = "insert into px_carduser  (cardid,userid,flag,createdate) values(?,?,?,getdate())";
+	       pstmt = con.prepareStatement(SQL);
+	       
+	       for(Object[] obj:list){
+	    	   DoorUserJsonform user=(DoorUserJsonform)obj[0];
+	    	   String msg=(String)obj[1];
+	    	   pstmt.setString(1, user.getCardid());
+	    	   pstmt.setString(2, user.getUserid());
+	    	   pstmt.setString(3, msg);
+	    	   pstmt.addBatch();
+	       }
+	       pstmt.executeBatch();
+	       con.commit();
+		if(rs!=null)rs.close();
+		if(rs!=null)pstmt.close();
+	} catch (Exception e) {
+		e.printStackTrace();
+	}
+	
+}
 	/**
 	 * 读取所有用户
 	 * @param startDate
@@ -33,6 +118,7 @@ public class DataRead {
 	 * @return
 	 * @throws Exception
 	 */
+@Deprecated
 public static List<DoorUserJsonform> readCardUserListByLastEditRq() throws Exception {
 		
 		SQLServerDataSource ds = new SQLServerDataSource();
