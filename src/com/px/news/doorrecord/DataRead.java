@@ -220,7 +220,7 @@ public static List<DoorUserJsonform> readCardUserListByLastEditRq() throws Excep
 		
 		try {
 			//String SQL = "SELECT id,cardid,dt,EquNo,DoorID,ErrCode,OperDt,OperName FROM door_record where dt>? and dt<=? ORDER BY dt";
-			String SQL = "SELECT top "+pagesize+" id,cardid,dt,EquNo,DoorID,ErrCode,OperDt,OperName FROM door_record where dt>=? and id>?  ORDER BY dt";
+			String SQL = "SELECT top "+pagesize+" id,cardid,dt,EquNo,DoorID,ErrCode,OperDt,OperName FROM door_record where dt>? and id>?  ORDER BY dt";
 			     PreparedStatement pstmt = con.prepareStatement(SQL);
 		      pstmt.setTimestamp(1, new Timestamp(startDate.getTime()));
 		      //防止重复数据提交

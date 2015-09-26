@@ -8104,3 +8104,28 @@ INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
 INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
 INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
 INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+INFO (com.px.news.doorrecord.DoorMain:174)- readCardUserListByChange list size=0
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+INFO (com.px.news.doorrecord.DoorMain:204)- 本次读取记录:0
+INFO (com.px.news.doorrecord.DoorMain:259)- 本次任务结束
+INFO (com.px.news.doorrecord.DoorMain:147)- 开始执行指定任务
+ERROR (com.px.news.doorrecord.DoorMain:183)- com.microsoft.sqlserver.jdbc.SQLServerException: 通过端口 1433 连接到主机 192.168.0.115 的 TCP/IP 连接失败。错误:“connect timed out。请验证连接属性，并检查 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
+ERROR (com.px.news.doorrecord.DoorMain:246)- 数据提交服务器错误！
+INFO (com.px.news.doorrecord.DoorMain:199)- -------------begain----------------
